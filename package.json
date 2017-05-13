@@ -1,0 +1,26 @@
+{
+  "name": "mini-clone-deep",
+  "description": "Mininal Recursive (deep) clone for JavaScript.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jfparadis/mini-clone-deep",
+  "author": "JF Paradis (https://github.com/jfparadis)",
+  "repository": "jfparadis/mini-clone-deep",
+  "bugs": {
+    "url": "https://github.com/jfparadis/mini-clone-deep/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
